@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author somay
- *
- */
-module java {
-}
